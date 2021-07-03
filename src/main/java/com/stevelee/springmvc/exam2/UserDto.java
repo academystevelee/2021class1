@@ -1,4 +1,4 @@
-package com.stevelee.springmvc.mb;
+package com.stevelee.springmvc.exam2;
 
 public class UserDto {
 

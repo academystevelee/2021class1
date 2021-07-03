@@ -13,11 +13,6 @@
     <select id="selectOneUser" resultType="com.stevelee.springmvc.mb.UserDto">
     	SELECT * FROM user where id = #{id}
     </select>
-    
-    <insert id=""></insert>
 
-	<update id=""></update>
-	
-	<delete id=""></delete>
 	
 </mapper>
